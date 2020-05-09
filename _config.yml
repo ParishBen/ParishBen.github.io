@@ -1,13 +1,13 @@
 # Site settings
-author: Ben Parish
-title: 
+author: Benjamin Parish
+title: Ben Traverses Tech
 header-img: img/home-bg.png
 email: parishben13@gmail.com
-copyright_name: Ben Parish
+copyright_name: Benjamin Parish
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron School - Software Engineer Track
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+twitter_username: bpar1318
 github_username:  ParishBen
 
 # Build settings
